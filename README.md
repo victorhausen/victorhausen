@@ -8,4 +8,4 @@
 - I'm currently looking for a job.
 - I'm currently I'm using Python, R and SQL on a Daily Basis.
 - I also have a photo with Maddog.
-![Victor and Maddog at Hopp and Roll - Curitiba, 2019.](https://i.imgur.com/rzM2nz2.jpg)
+![Victor and Maddog at Hopp and Roll - Curitiba, 2019.](https://i.imgur.com/rzM2nz2.jpg =250x)
