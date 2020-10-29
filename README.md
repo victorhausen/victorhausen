@@ -6,5 +6,5 @@
 
 - I'm currently working on Data Science Projects related to Political Science, I enjoy working mainly with textual and geospatial data.
 - I'm currently looking for a job.
-- I'm currently I'm using Python, R and SQL on a Daily Basis.
+- I'm currently using Python, R and SQL on a Daily Basis.
 - I also have a photo with [Maddog](https://i.imgur.com/rzM2nz2.jpg). You can't get any cooler than that.
