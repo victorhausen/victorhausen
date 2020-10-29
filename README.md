@@ -5,5 +5,6 @@
 
 
 - I'm currently working on Data Science Projects related to Political Science, I enjoy working mainly with textual and geospatial data.
-Here are some ideas to get you started:
 - I'm currently looking for a job.
+
+- Currently I'm using Python, R and SQL on a Daily Basis.
